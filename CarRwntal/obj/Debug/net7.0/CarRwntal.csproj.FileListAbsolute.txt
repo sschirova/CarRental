@@ -1,0 +1,15 @@
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/bin/Debug/net7.0/CarRwntal
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/bin/Debug/net7.0/CarRwntal.deps.json
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/bin/Debug/net7.0/CarRwntal.runtimeconfig.json
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/bin/Debug/net7.0/CarRwntal.dll
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/bin/Debug/net7.0/CarRwntal.pdb
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/CarRwntal.csproj.AssemblyReference.cache
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/CarRwntal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/CarRwntal.AssemblyInfoInputs.cache
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/CarRwntal.AssemblyInfo.cs
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/CarRwntal.csproj.CoreCompileInputs.cache
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/CarRwntal.dll
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/refint/CarRwntal.dll
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/CarRwntal.pdb
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/CarRwntal.genruntimeconfig.cache
+/Users/sofasirova/Desktop/2 step/2 semestr/CarRwntal/CarRwntal/obj/Debug/net7.0/ref/CarRwntal.dll
